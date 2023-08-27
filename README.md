@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I am Amardeep</h1>
 <h3 align="center">A DevOps & Cloud enthusiasts</h3>
-<img align="right" alt="coding" width="400" src = "![image](https://github.com/Developer-Atomic-Vishnu/Developer-Atomic-Vishnu/assets/71242039/43d8c7da-6ad3-444e-b115-079f34196941)
-">
+<img align="right" alt="coding" width="400" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0rR6kMx9vVwxeqUk2Jw6yt&ust=1693222811643000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPCD6oDh_IADFQAAAAAdAAAAABAT">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amardee53479855" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amardee53479855" height="30" width="40" /></a>
